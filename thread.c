@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <pthread.h>
+// put the appropriate extentios for pthread to work
 
 void *thread_function(void *arg)
 {
